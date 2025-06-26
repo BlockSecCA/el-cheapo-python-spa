@@ -162,13 +162,10 @@ from datetime import datetime
 - **Persistent**: Progress can be saved and shared
 - **Accessible**: No technical setup required
 
-## Related Technologies
-
-- **JupyterLite**: Browser-based Jupyter notebooks
-- **Pyodide**: Python scientific stack for WebAssembly  
-- **WebAssembly**: High-performance execution in browsers
-- **IndexedDB**: Browser-native persistent storage
-- **Progressive Web Apps**: Offline-capable web applications
+## Inspiration & Related Work
+- [TestDriven.io Pyodide Tutorial](https://testdriven.io/blog/python-webassembly/) - Excellent introduction to Python in the browser
+- [Claude Chat + MCP](https://www.anthropic.com/) - AI-assisted development workflow  
+- [Pyodide Project](https://pyodide.org/) - Python scientific stack for WebAssembly
 
 ## Contributing
 
