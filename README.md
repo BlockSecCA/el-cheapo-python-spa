@@ -166,15 +166,6 @@ from datetime import datetime
 Excellent introduction to Python in the browser
 - [TestDriven.io Pyodide Tutorial](https://testdriven.io/blog/python-webassembly/) 
 
-## Contributing
-This demonstrates the \"El-Cheapo Claude Code\" workflow:
-1. **AI Chat generates** Python/web applications  
-2. **Save to filesystem** via development tools
-3. **Run locally** with full browser capabilities
-4. **Iterate quickly** without expensive cloud resources
-
-Perfect for learning, prototyping, and cost-conscious development!
-
 ---
 
 *This application showcases how modern browsers can run sophisticated Python applications with minimal infrastructure, opening new possibilities for education, prototyping, and lightweight application development.*
