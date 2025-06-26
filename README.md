@@ -163,12 +163,10 @@ from datetime import datetime
 - **Accessible**: No technical setup required
 
 ## Inspiration & Related Work
-- [TestDriven.io Pyodide Tutorial](https://testdriven.io/blog/python-webassembly/) - Excellent introduction to Python in the browser
-- [Claude Chat + MCP](https://www.anthropic.com/) - AI-assisted development workflow  
-- [Pyodide Project](https://pyodide.org/) - Python scientific stack for WebAssembly
+Excellent introduction to Python in the browser
+- [TestDriven.io Pyodide Tutorial](https://testdriven.io/blog/python-webassembly/) 
 
 ## Contributing
-
 This demonstrates the \"El-Cheapo Claude Code\" workflow:
 1. **AI Chat generates** Python/web applications  
 2. **Save to filesystem** via development tools
