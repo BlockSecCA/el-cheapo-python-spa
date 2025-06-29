@@ -1,5 +1,13 @@
 # Pyodide State Persistence Demo
 
+[![Status](https://img.shields.io/badge/Status-Ready-brightgreen?style=for-the-badge)](https://github.com/BlockSecCA/el-cheapo-python-spa)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Pyodide](https://img.shields.io/badge/Pyodide-FFD43B?style=for-the-badge&logo=python&logoColor=white)](https://pyodide.org/)
+[![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html)
+[![Client-Side](https://img.shields.io/badge/Architecture-Client--Side-blue?style=for-the-badge)](https://github.com/BlockSecCA/el-cheapo-python-spa)
+
 A demonstration of running Python applications with persistent state entirely in the browser using Pyodide and WebAssembly.
 
 ## What This Demonstrates
