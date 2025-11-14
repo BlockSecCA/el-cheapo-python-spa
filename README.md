@@ -177,3 +177,8 @@ Excellent introduction to Python in the browser
 ---
 
 *This application showcases how modern browsers can run sophisticated Python applications with minimal infrastructure, opening new possibilities for education, prototyping, and lightweight application development.*
+
+## Author
+
+Carlos - BlockSecCA
+
